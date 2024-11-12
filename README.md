@@ -4,6 +4,7 @@ NPM   : 2210010039
 KELAS : REG PAGI 5B BJB
 
 # DETAIL TUGAS YANG DIBERIKAN
+Aplikasi Perhitungan Hari<br>
 1. Deskripsi Program :<br>
    - Pengguna memilih bulan dari JComboBox dan memasukkan tahun menggunakan JSpinner.<br>
    - Gunakan JCalendar untuk memilih bulan dan tahun.<br>
@@ -16,3 +17,15 @@ KELAS : REG PAGI 5B BJB
 5. Variasi :<br>
    - Tampilkan informasi tambahan seperti hari pertama dan terakhir dalam bulan tersebut.<br>
    - Integrasikan fitur untuk menghitung selisih hari antara dua tanggal.<br>
+
+# FITUR PADA APLIKASI YANG DIBUAT
+- Menampilkan jumlah hari pada bulan dan tahun yang dipilih.<br>
+- Menampilkan hari pertama dan hari terakhir pada bulan yang dipilih.<br>
+- Menentukan apakah tahun yang dipilih adalah tahun kabisat atau bukan.<br>
+- Menghitung selisih hari antara dua tanggal.<br>
+
+# TAMPILAN APLIKASI YANG DIBUAT
+1. Tampilan awal aplikasi.<br>
+<img width="509" alt="aplikasi penghitung hari" src="https://github.com/user-attachments/assets/c5893d5f-c0c4-4d45-a926-32221003a637"><br>
+2. Memasukkan tanggal 1 januari 2024 (kabisat) dan menampilkan hari pertama dan hari terakhir dibulan ini. selisih yang dimasukkan 12 november 2024.<br>
+<img width="805" alt="aplikasi penghitung hari hasil" src="https://github.com/user-attachments/assets/af95dba2-59d0-4e7f-91d8-e599c6980c20"><br>
