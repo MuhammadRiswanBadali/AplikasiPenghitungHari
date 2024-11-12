@@ -23,6 +23,7 @@ Aplikasi Perhitungan Hari<br>
 - Menampilkan hari pertama dan hari terakhir pada bulan yang dipilih.<br>
 - Menentukan apakah tahun yang dipilih adalah tahun kabisat atau bukan.<br>
 - Menghitung selisih hari antara dua tanggal.<br>
+- Combo box untuk memili bulan dan Spinner untuk memilih tahun langsung terhubung ke bagian calendar pertama.
 
 # TAMPILAN APLIKASI YANG DIBUAT
 1. Tampilan awal aplikasi.<br>
