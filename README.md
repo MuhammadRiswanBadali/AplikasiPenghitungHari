@@ -29,3 +29,5 @@ Aplikasi Perhitungan Hari<br>
 <img width="509" alt="aplikasi penghitung hari" src="https://github.com/user-attachments/assets/c5893d5f-c0c4-4d45-a926-32221003a637"><br>
 2. Memasukkan tanggal 1 januari 2024 (kabisat) dan menampilkan hari pertama dan hari terakhir dibulan ini. selisih yang dimasukkan 12 november 2024.<br>
 <img width="805" alt="aplikasi penghitung hari hasil" src="https://github.com/user-attachments/assets/af95dba2-59d0-4e7f-91d8-e599c6980c20"><br>
+3. Memasukkan tanggal 1 januari 2023 (bukan tahun kabisat) dan menampilkan hari pertama dan hari terakhir dibulan ini. selisih yang dimasukkan 1 november 2024.<br>
+<img width="814" alt="aplikasi penghitung hari hasil2" src="https://github.com/user-attachments/assets/06bfcea0-d3f7-4f32-ac64-3aefa104efe8"><br>
